@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'hashie', '~> 1.2.0'
   s.add_runtime_dependency 'faraday', '>= 0.7'
   s.add_runtime_dependency 'faraday_middleware', '>= 0.7.0'
-  s.add_runtime_dependency 'multi_xml', '~> 0.4.2'
+  s.add_runtime_dependency 'multi_xml', '>= 0.2.0'
   s.add_runtime_dependency 'rash', '~> 0.3.0'
 
   s.author = "Brandon West"
